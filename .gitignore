@@ -25,5 +25,6 @@ windows/flutter/ephemeral/
 *.sqlite
 *.sqlite3
 
-# Pacote de download (vai para o GitHub Releases, não para o código)
+# Zips locais. O pacote do Windows fica versionado em download/.
 *.zip
+!download/LorcArcana-Windows.zip

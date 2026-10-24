@@ -10,18 +10,19 @@ O código deste repositório está sob a licença MIT. Ver o arquivo `LICENSE`.
 
 Quem só quer jogar não precisa instalar Flutter nem abrir o código.
 
-1. Nesta página do GitHub, clique em **Releases** (à direita, ou no topo).
-2. Baixe o arquivo **LorcArcana-Windows.zip**.
-3. Clique com o botão direito no arquivo e escolha **Extrair tudo**.
-4. Abra a pasta extraída e dê dois cliques em **lorcarcana.exe**.
+Baixe o programa aqui: [LorcArcana-Windows.zip](https://github.com/RicoMig/LorcArcana/raw/main/download/LorcArcana-Windows.zip)
+
+O mesmo arquivo está na pasta `download` deste repositório. Ele traz o `lorcarcana.exe` e os arquivos que o Windows precisa para abrir o jogo. O executável sozinho não funciona.
+
+1. Clique no link acima e salve o zip.
+2. Clique com o botão direito no arquivo e escolha **Extrair tudo**.
+3. Abra a pasta extraída e dê dois cliques em **lorcarcana.exe**.
 
 Deixe o `lorcarcana.exe` junto da pasta `data` e dos arquivos `.dll`. Se separar o programa desses arquivos, ele não abre.
 
 Na primeira vez, deixe a internet ligada. O programa baixa as cartas. Decks e essa cópia das cartas ficam no seu Windows, na pasta de dados do aplicativo `LorcArcana`. Não há conta, senha nem envio do seu deck para um servidor.
 
-O Windows pode mostrar um aviso azul de proteção. Isso acontece porque o arquivo não tem assinatura digital de uma empresa. Se você baixou o zip desta página de Releases, escolha **Mais informações** e depois **Executar assim mesmo**.
-
-O botão verde **Code** baixa o código-fonte, não o jogo. Para jogar, use o zip de Releases.
+O Windows pode mostrar um aviso azul de proteção. Isso acontece porque o arquivo não tem assinatura digital de uma empresa. Se você baixou o zip deste repositório, escolha **Mais informações** e depois **Executar assim mesmo**.
 
 ## Como jogar
 
