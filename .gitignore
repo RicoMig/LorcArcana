@@ -1,0 +1,29 @@
+# Flutter
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+windows/flutter/ephemeral/
+
+# Editores
+*.iml
+*.ipr
+*.iws
+.idea/
+.vscode/
+.cursor/
+.cursorrules
+
+# Segredos e dados locais
+**/*.keystore
+.env
+.env.*
+*.db
+*.sqlite
+*.sqlite3
+
+# Pacote de download (vai para o GitHub Releases, não para o código)
+*.zip
